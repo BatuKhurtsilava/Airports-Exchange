@@ -1,0 +1,16 @@
+
+
+
+.AirportsContainer {
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  }
+  
+  
+  .Airports {
+    border-width: 4px;
+    border-color: black;
+    margin: 10px;
+    
+    }

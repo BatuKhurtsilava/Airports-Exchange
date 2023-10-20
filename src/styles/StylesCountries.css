@@ -1,0 +1,63 @@
+
+.Select {
+  height: 50px;
+  width: 90%;
+  display: block;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 40px;
+  font-size: 20px;
+  border-color: #9ed8d8;
+  border-width: 0.12rem;
+  outline: none;
+  }
+  
+  .Container {
+    border-width: 0.5rem;
+    border-color: black;
+  }
+  
+  .Label {
+    display: inline;
+    text-align: right;
+    width: auto;
+    
+    
+    /* margin-right: 10px; */
+  }
+  
+  .InfoContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+  }
+  
+  .ParticularInfoContainer {
+   display: flex;
+   justify-content: flex-start;
+   align-items: flex-start;
+   flex-direction: column;
+  }
+  
+  .Link {
+    display: inline-flex;
+    flex-direction: row;
+    justify-self: flex-start;
+    margin-inline: 10px;
+    text-decoration: none;
+    color:rgb(42, 41, 41);
+  
+    
+  }
+  
+  .LinkContainer {
+    margin-top: 20px;
+    margin-left: 60px;
+    display: flex;
+    justify-content: flex-start;
+    left:0;
+    top: 0;
+  }
+  
+  
