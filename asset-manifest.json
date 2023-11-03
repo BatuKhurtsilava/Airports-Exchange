@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Airports-Exchange/static/css/main.fc3dea7f.css",
+    "main.js": "/Airports-Exchange/static/js/main.d11e20b2.js",
+    "static/js/787.1eebebfc.chunk.js": "/Airports-Exchange/static/js/787.1eebebfc.chunk.js",
+    "index.html": "/Airports-Exchange/index.html",
+    "main.fc3dea7f.css.map": "/Airports-Exchange/static/css/main.fc3dea7f.css.map",
+    "main.d11e20b2.js.map": "/Airports-Exchange/static/js/main.d11e20b2.js.map",
+    "787.1eebebfc.chunk.js.map": "/Airports-Exchange/static/js/787.1eebebfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc3dea7f.css",
+    "static/js/main.d11e20b2.js"
+  ]
+}
